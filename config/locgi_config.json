@@ -1,0 +1,6 @@
+{
+    "taille_vocab": 32,
+    "d_model": 32,
+    "version": "1.0-hybride",
+    "auteur": "Mauricio Mangituka / gopu.inc"
+}

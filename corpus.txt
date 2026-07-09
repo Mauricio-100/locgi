@@ -1,0 +1,332 @@
+Question : Quelle est la capitale de la France ? Réponse : La capitale de la France est Paris.
+Question : Combien de continents y a-t-il sur Terre ? Réponse : Il y a sept continents : l'Afrique, l'Amérique du Nord, l'Amérique du Sud, l'Antarctique, l'Asie, l'Europe et l'Océanie.
+Question : Quel est le plus long fleuve du monde ? Réponse : Le Nil est considéré comme le plus long fleuve du monde.
+Question : Quelle est la capitale du Japon ? Réponse : La capitale du Japon est Tokyo.
+Question : Dans quel pays se trouve la tour Eiffel ? Réponse : La tour Eiffel se trouve en France.
+Question : Quelle est la plus grande île du monde ? Réponse : Le Groenland est la plus grande île du monde.
+Question : Quel océan borde la côte ouest des États-Unis ? Réponse : L'océan Pacifique borde la côte ouest des États-Unis.
+Question : Quelle est la capitale du Canada ? Réponse : La capitale du Canada est Ottawa.
+Question : Quel est le plus grand désert du monde ? Réponse : Le désert de l'Antarctique est le plus grand désert du monde.
+Question : Dans quel pays se trouve le Machu Picchu ? Réponse : Le Machu Picchu se trouve au Pérou.
+Question : Quelle est la capitale de l'Australie ? Réponse : La capitale de l'Australie est Canberra.
+Question : Quel est le plus haut sommet du monde ? Réponse : Le mont Everest est le plus haut sommet du monde.
+Question : Quelle mer borde l'Égypte au nord ? Réponse : La mer Méditerranée borde l'Égypte au nord.
+Question : Quelle est la capitale du Brésil ? Réponse : La capitale du Brésil est Brasília.
+Question : Quel pays a la plus grande superficie au monde ? Réponse : La Russie a la plus grande superficie au monde.
+Question : Où se trouve la Grande Barrière de corail ? Réponse : La Grande Barrière de corail se trouve en Australie.
+Question : Quelle est la capitale de l'Inde ? Réponse : La capitale de l'Inde est New Delhi.
+Question : Combien d'océans y a-t-il sur Terre ? Réponse : Il y a cinq océans : Pacifique, Atlantique, Indien, Arctique et Austral.
+Question : Quel détroit sépare l'Europe de l'Afrique ? Réponse : Le détroit de Gibraltar sépare l'Europe de l'Afrique.
+Question : Quelle est la capitale de l'Italie ? Réponse : La capitale de l'Italie est Rome.
+Question : Quel est le plus grand lac d'Afrique ? Réponse : Le lac Victoria est le plus grand lac d'Afrique.
+Question : Dans quel pays se trouve la Cappadoce ? Réponse : La Cappadoce se trouve en Turquie.
+Question : Quelle est la capitale de l'Argentine ? Réponse : La capitale de l'Argentine est Buenos Aires.
+Question : Quel fleuve traverse Paris ? Réponse : La Seine traverse Paris.
+Question : Quelle est la capitale de l'Égypte ? Réponse : La capitale de l'Égypte est Le Caire.
+Question : Quel est le plus petit pays du monde ? Réponse : Le Vatican est le plus petit pays du monde.
+Question : Dans quel pays se trouve Angkor Wat ? Réponse : Angkor Wat se trouve au Cambodge.
+Question : Quelle est la capitale de l'Allemagne ? Réponse : La capitale de l'Allemagne est Berlin.
+Question : Quel est le point culminant de l'Afrique ? Réponse : Le Kilimandjaro est le point culminant de l'Afrique.
+Question : Quelle est la capitale de la Corée du Sud ? Réponse : La capitale de la Corée du Sud est Séoul.
+Question : Quel est le plus long fleuve d'Europe ? Réponse : La Volga est le plus long fleuve d'Europe.
+Question : Dans quel océan se trouvent les Maldives ? Réponse : Les Maldives se trouvent dans l'océan Indien.
+Question : Quelle est la capitale de l'Espagne ? Réponse : La capitale de l'Espagne est Madrid.
+Question : Quel pays possède le plus de fuseaux horaires ? Réponse : La France possède le plus de fuseaux horaires.
+Question : Quelle est la capitale du Maroc ? Réponse : La capitale du Maroc est Rabat.
+Question : Quel est le plus grand lac du monde ? Réponse : La mer Caspienne est le plus grand lac du monde.
+Question : Dans quel pays se trouve la Patagonie ? Réponse : La Patagonie se trouve en Argentine et au Chili.
+Question : Quelle est la capitale du Portugal ? Réponse : La capitale du Portugal est Lisbonne.
+Question : Quel fleuve traverse Londres ? Réponse : La Tamise traverse Londres.
+Question : Quelle est la capitale de la Russie ? Réponse : La capitale de la Russie est Moscou.
+Question : En quelle année a eu lieu la Révolution française ? Réponse : La Révolution française a débuté en 1789.
+Question : Qui était le premier empereur de Chine ? Réponse : Qin Shi Huang est considéré comme le premier empereur de Chine.
+Question : En quelle année a eu lieu la chute du mur de Berlin ? Réponse : Le mur de Berlin est tombé en 1989.
+Question : Qui était Cléopâtre ? Réponse : Cléopâtre était la dernière reine de l'Égypte antique.
+Question : En quelle année Christophe Colomb a-t-il découvert l'Amérique ? Réponse : Christophe Colomb a atteint l'Amérique en 1492.
+Question : Qui a été le premier président des États-Unis ? Réponse : George Washington a été le premier président des États-Unis.
+Question : En quelle année la Seconde Guerre mondiale s'est-elle terminée ? Réponse : La Seconde Guerre mondiale s'est terminée en 1945.
+Question : Qui était Jeanne d'Arc ? Réponse : Jeanne d'Arc était une héroïne française qui a combattu pendant la guerre de Cent Ans.
+Question : En quelle année a commencé la Première Guerre mondiale ? Réponse : La Première Guerre mondiale a commencé en 1914.
+Question : Qui a découvert la pénicilline ? Réponse : Alexander Fleming a découvert la pénicilline en 1928.
+Question : En quelle année a eu lieu la prise de la Bastille ? Réponse : La prise de la Bastille a eu lieu le 14 juillet 1789.
+Question : Qui était Nelson Mandela ? Réponse : Nelson Mandela était un leader anti-apartheid et premier président noir d'Afrique du Sud.
+Question : En quelle année a eu lieu la bataille de Waterloo ? Réponse : La bataille de Waterloo a eu lieu en 1815.
+Question : Qui a peint la chapelle Sixtine ? Réponse : Michel-Ange a peint le plafond de la chapelle Sixtine.
+Question : En quelle année a été signée la Déclaration d'indépendance américaine ? Réponse : La Déclaration d'indépendance américaine a été signée en 1776.
+Question : Qui était Alexandre le Grand ? Réponse : Alexandre le Grand était un roi de Macédoine qui a conquis un vaste empire.
+Question : En quelle année a eu lieu le couronnement de Napoléon ? Réponse : Napoléon a été couronné en 1804.
+Question : Qui a inventé l'imprimerie ? Réponse : Johannes Gutenberg a inventé l'imprimerie à caractères mobiles.
+Question : En quelle année a eu lieu la fin de l'Empire romain d'Occident ? Réponse : L'Empire romain d'Occident est tombé en 476.
+Question : Qui était Spartacus ? Réponse : Spartacus était un gladiateur qui a mené une révolte d'esclaves contre Rome.
+Question : En quelle année a commencé la révolution russe ? Réponse : La révolution russe a commencé en 1917.
+Question : Qui a fondé Rome selon la légende ? Réponse : Selon la légende, Romulus a fondé Rome.
+Question : En quelle année a eu lieu le débarquement de Normandie ? Réponse : Le débarquement de Normandie a eu lieu le 6 juin 1944.
+Question : Qui était Martin Luther King Jr. ? Réponse : Martin Luther King Jr. était un pasteur et leader du mouvement des droits civiques aux États-Unis.
+Question : En quelle année a été abolie l'esclavage en France ? Réponse : L'esclavage a été aboli en France en 1848.
+Question : Qui a construit les grandes pyramides d'Égypte ? Réponse : Les pyramides ont été construites par les pharaons de l'Égypte antique, comme Khéops.
+Question : En quelle année a eu lieu la révolution chinoise ? Réponse : La révolution chinoise a abouti à la fondation de la République populaire de Chine en 1949.
+Question : Qui était Galilée ? Réponse : Galilée était un astronome et physicien italien qui a soutenu l'héliocentrisme.
+Question : Quelle est la planète la plus proche du Soleil ? Réponse : La planète la plus proche du Soleil est Mercure.
+Question : Quel est l'organe principal du système circulatoire ? Réponse : Le cœur est l'organe principal du système circulatoire.
+Question : Combien d'os y a-t-il dans le corps humain adulte ? Réponse : Le corps humain adulte compte 206 os.
+Question : Quelle est la vitesse de la lumière ? Réponse : La vitesse de la lumière est d'environ 300 000 kilomètres par seconde.
+Question : Quel est le symbole chimique de l'eau ? Réponse : Le symbole chimique de l'eau est H2O.
+Question : Quelle est la plus grande planète du système solaire ? Réponse : Jupiter est la plus grande planète du système solaire.
+Question : Quel est le plus grand organe du corps humain ? Réponse : La peau est le plus grand organe du corps humain.
+Question : Qu'est-ce que l'ADN ? Réponse : L'ADN est la molécule qui contient l'information génétique des êtres vivants.
+Question : Combien de planètes y a-t-il dans le système solaire ? Réponse : Il y a huit planètes dans le système solaire.
+Question : Quel est le symbole chimique de l'or ? Réponse : Le symbole chimique de l'or est Au.
+Question : Quelle est la formule de la gravité selon Newton ? Réponse : La force de gravité est F = G × m1 × m2 / r².
+Question : Quel est le plus gros organe interne du corps humain ? Réponse : Le foie est le plus gros organe interne du corps humain.
+Question : Qu'est-ce qu'un écosystème ? Réponse : Un écosystème est un ensemble formé par une communauté d'êtres vivants et leur environnement.
+Question : Quelle est la température du Soleil en surface ? Réponse : La température de la surface du Soleil est d'environ 5 500 degrés Celsius.
+Question : Qu'est-ce que la photosynthèse ? Réponse : La photosynthèse est le processus par lequel les plantes transforment la lumière en énergie.
+Question : Quel est le symbole chimique du fer ? Réponse : Le symbole chimique du fer est Fe.
+Question : Combien de chromosomes un humain possède-t-il ? Réponse : Un humain possède 46 chromosomes, soit 23 paires.
+Question : Quelle est la plus petite particule de matière ? Réponse : L'atome est la plus petite unité de matière conservant les propriétés d'un élément.
+Question : Quel est le gaz le plus abondant dans l'atmosphère terrestre ? Réponse : L'azote est le gaz le plus abondant, représentant environ 78 % de l'atmosphère.
+Question : Qu'est-ce que le cycle de l'eau ? Réponse : Le cycle de l'eau décrit le mouvement continu de l'eau entre la Terre et l'atmosphère.
+Question : Quelle planète est surnommée la planète rouge ? Réponse : Mars est surnommée la planète rouge.
+Question : Qu'est-ce qu'une cellule ? Réponse : La cellule est l'unité de base du vivant.
+Question : Quel est le symbole chimique du sodium ? Réponse : Le symbole chimique du sodium est Na.
+Question : Quelle est la fonction des globules rouges ? Réponse : Les globules rouges transportent l'oxygène dans le sang.
+Question : Qu'est-ce qu'une éclipse solaire ? Réponse : Une éclipse solaire se produit quand la Lune passe entre le Soleil et la Terre.
+Question : Quel est le plus gros mammifère terrestre ? Réponse : L'éléphant d'Afrique est le plus gros mammifère terrestre.
+Question : Qu'est-ce que la mitose ? Réponse : La mitose est la division cellulaire qui produit deux cellules filles identiques.
+Question : Quelle est la distance moyenne entre la Terre et la Lune ? Réponse : La distance moyenne est d'environ 384 400 kilomètres.
+Question : Qui a peint la Joconde ? Réponse : La Joconde a été peinte par Léonard de Vinci.
+Question : Qui a écrit Les Misérables ? Réponse : Les Misérables a été écrit par Victor Hugo.
+Question : Quel est le titre du premier film Star Wars sorti ? Réponse : Le premier film Star Wars sorti est Un nouvel espoir en 1977.
+Question : Qui a composé la Symphonie n°9 ? Réponse : Ludwig van Beethoven a composé la Symphonie n°9.
+Question : Quel peintre a coupé son oreille ? Réponse : Vincent van Gogh s'est coupé l'oreille.
+Question : Qui a écrit Roméo et Juliette ? Réponse : Roméo et Juliette a été écrit par William Shakespeare.
+Question : Quel est le tableau le plus célèbre d'Edvard Munch ? Réponse : Le Cri est le tableau le plus célèbre d'Edvard Munch.
+Question : Qui a sculpté le David ? Réponse : Michel-Ange a sculpté le David.
+Question : Quel est le genre musical de Bob Marley ? Réponse : Bob Marley est une légende du reggae.
+Question : Qui a écrit Le Petit Prince ? Réponse : Le Petit Prince a été écrit par Antoine de Saint-Exupéry.
+Question : Quel groupe a interprété Bohemian Rhapsody ? Réponse : Le groupe Queen a interprété Bohemian Rhapsody.
+Question : Qui a peint Guernica ? Réponse : Guernica a été peint par Pablo Picasso.
+Question : Quel est le nom de l'école de magie dans Harry Potter ? Réponse : L'école de magie s'appelle Poudlard.
+Question : Qui a composé Les Quatre Saisons ? Réponse : Antonio Vivaldi a composé Les Quatre Saisons.
+Question : Quel est le plus grand musée du monde ? Réponse : Le Louvre à Paris est le plus grand musée du monde.
+Question : Qui a écrit 1984 ? Réponse : 1984 a été écrit par George Orwell.
+Question : Quel est l'instrument principal du flamenco ? Réponse : La guitare est l'instrument principal du flamenco.
+Question : Qui a réalisé le film Pulp Fiction ? Réponse : Pulp Fiction a été réalisé par Quentin Tarantino.
+Question : Quel est le livre le plus traduit au monde ? Réponse : La Bible est le livre le plus traduit au monde.
+Question : Qui a peint le plafond de la chapelle Sixtine ? Réponse : Michel-Ange a peint le plafond de la chapelle Sixtine.
+Question : Quel style architectural caractérise Notre-Dame de Paris ? Réponse : Notre-Dame de Paris est de style gothique.
+Question : Qui a écrit Les Fleurs du mal ? Réponse : Les Fleurs du mal a été écrit par Charles Baudelaire.
+Question : Quel est le nom du navire dans Moby Dick ? Réponse : Le navire dans Moby Dick s'appelle le Pequod.
+Question : Qui a composé la musique du film Le Roi Lion ? Réponse : Hans Zimmer et Elton John ont composé la musique du Roi Lion.
+Question : Quel est le mouvement artistique de Claude Monet ? Réponse : Claude Monet est un peintre impressionniste.
+Question : Qui a écrit L'Étranger ? Réponse : L'Étranger a été écrit par Albert Camus.
+Question : Quel groupe est célèbre pour la chanson Imagine ? Réponse : John Lennon, ancien membre des Beatles, est célèbre pour Imagine.
+Question : Qui est l'auteur de la série Game of Thrones ? Réponse : George R.R. Martin est l'auteur de la saga Game of Thrones.
+Question : Comment dit-on bonjour en espagnol ? Réponse : Bonjour se dit hola en espagnol.
+Question : Comment dit-on merci en japonais ? Réponse : Merci se dit arigatō en japonais.
+Question : Comment dit-on oui en allemand ? Réponse : Oui se dit ja en allemand.
+Question : Comment dit-on s'il vous plaît en italien ? Réponse : S'il vous plaît se dit per favore en italien.
+Question : Comment dit-on au revoir en anglais ? Réponse : Au revoir se dit goodbye en anglais.
+Question : Comment dit-on je t'aime en portugais ? Réponse : Je t'aime se dit eu te amo en portugais.
+Question : Comment dit-on bonjour en arabe ? Réponse : Bonjour se dit as-salamu alaykum en arabe.
+Question : Comment dit-on merci en chinois mandarin ? Réponse : Merci se dit xièxiè en chinois mandarin.
+Question : Comment dit-on oui en russe ? Réponse : Oui se dit da en russe.
+Question : Comment dit-on eau en espagnol ? Réponse : Eau se dit agua en espagnol.
+Question : Comment dit-on chat en italien ? Réponse : Chat se dit gatto en italien.
+Question : Comment dit-on lune en allemand ? Réponse : Lune se dit Mond en allemand.
+Question : Comment dit-on ami en japonais ? Réponse : Ami se dit tomodachi en japonais.
+Question : Comment dit-on non en espagnol ? Réponse : Non se dit no en espagnol.
+Question : Comment dit-on bonjour en hébreu ? Réponse : Bonjour se dit shalom en hébreu.
+Question : Comment dit-on livre en allemand ? Réponse : Livre se dit Buch en allemand.
+Question : Comment dit-on plage en portugais ? Réponse : Plage se dit praia en portugais.
+Question : Comment dit-on étoile en italien ? Réponse : Étoile se dit stella en italien.
+Question : Comment dit-on pardon en espagnol ? Réponse : Pardon se dit perdón en espagnol.
+Question : Comment dit-on maison en anglais ? Réponse : Maison se dit house en anglais.
+Question : Quel est l'animal le plus rapide du monde ? Réponse : Le guépard est l'animal terrestre le plus rapide.
+Question : Combien de cœurs une pieuvre possède-t-elle ? Réponse : Une pieuvre possède trois cœurs.
+Question : Quel oiseau peut voler à reculons ? Réponse : Le colibri peut voler à reculons.
+Question : Quel est le plus grand animal marin ? Réponse : La baleine bleue est le plus grand animal marin.
+Question : Combien de pattes une araignée a-t-elle ? Réponse : Une araignée a huit pattes.
+Question : Quel mammifère pond des œufs ? Réponse : L'ornithorynque est un mammifère qui pond des œufs.
+Question : Quelle est la durée de vie moyenne d'un chien ? Réponse : La durée de vie moyenne d'un chien est de 10 à 13 ans.
+Question : Quel animal symbolise la paix ? Réponse : La colombe symbolise la paix.
+Question : Combien de temps un éléphant reste-t-il en gestation ? Réponse : La gestation d'un éléphant dure environ 22 mois.
+Question : Quel est le plus grand reptile du monde ? Réponse : Le crocodile marin est le plus grand reptile du monde.
+Question : Comment s'appelle le bébé kangourou ? Réponse : Le bébé kangourou s'appelle un joey.
+Question : Quel arbre produit les glands ? Réponse : Le chêne produit les glands.
+Question : Quelle est la fleur nationale du Japon ? Réponse : La fleur de cerisier, ou sakura, est un symbole national du Japon.
+Question : Combien de dents un requin blanc peut-il perdre dans sa vie ? Réponse : Un requin blanc peut perdre jusqu'à 30 000 dents dans sa vie.
+Question : Quel animal vit le plus longtemps ? Réponse : La tortue géante des Galápagos peut vivre plus de 100 ans.
+Question : Quelle est la forêt tropicale la plus grande du monde ? Réponse : L'Amazonie est la plus grande forêt tropicale du monde.
+Question : Quel oiseau ne peut pas voler ? Réponse : L'autruche est un oiseau qui ne peut pas voler.
+Question : Combien d'estomacs une vache possède-t-elle ? Réponse : Une vache possède quatre estomacs.
+Question : Quel est le félin le plus grand du monde ? Réponse : Le tigre de Sibérie est le plus grand félin du monde.
+Question : Quelle plante produit le chocolat ? Réponse : Le cacaoyer produit les fèves utilisées pour le chocolat.
+Question : Qui a fondé Microsoft ? Réponse : Bill Gates et Paul Allen ont fondé Microsoft.
+Question : Que signifie HTML ? Réponse : HTML signifie HyperText Markup Language.
+Question : En quelle année Internet a-t-il été inventé ? Réponse : Les bases d'Internet ont été posées à la fin des années 1960 avec ARPANET.
+Question : Qu'est-ce qu'un algorithme ? Réponse : Un algorithme est une suite d'instructions pour résoudre un problème.
+Question : Qui a créé Facebook ? Réponse : Mark Zuckerberg a créé Facebook.
+Question : Que signifie CPU ? Réponse : CPU signifie Central Processing Unit, ou unité centrale de traitement.
+Question : Quel langage de programmation est représenté par un serpent ? Réponse : Python est souvent représenté par un serpent.
+Question : Qu'est-ce que le cloud computing ? Réponse : Le cloud computing permet d'accéder à des ressources informatiques via Internet.
+Question : Qui a inventé le téléphone ? Réponse : Alexander Graham Bell a inventé le téléphone.
+Question : Que signifie PDF ? Réponse : PDF signifie Portable Document Format.
+Question : Quel est le réseau social le plus utilisé au monde ? Réponse : Facebook est l'un des réseaux sociaux les plus utilisés au monde.
+Question : Qu'est-ce qu'un navigateur web ? Réponse : Un navigateur web est un logiciel pour accéder à Internet, comme Chrome ou Firefox.
+Question : Qui a cofondé Apple ? Réponse : Steve Jobs, Steve Wozniak et Ronald Wayne ont cofondé Apple.
+Question : Que signifie RAM ? Réponse : RAM signifie Random Access Memory, ou mémoire vive.
+Question : Qu'est-ce qu'un système d'exploitation ? Réponse : Un système d'exploitation gère les ressources matérielles et logicielles d'un ordinateur.
+Question : En quelle année le premier iPhone est-il sorti ? Réponse : Le premier iPhone est sorti en 2007.
+Question : Que signifie URL ? Réponse : URL signifie Uniform Resource Locator.
+Question : Qui a inventé le World Wide Web ? Réponse : Tim Berners-Lee a inventé le World Wide Web.
+Question : Qu'est-ce que l'intelligence artificielle ? Réponse : L'intelligence artificielle simule l'intelligence humaine dans des machines.
+Question : Que signifie Wi-Fi ? Réponse : Wi-Fi signifie Wireless Fidelity.
+Question : Quel fruit est le plus consommé au monde ? Réponse : La tomate est le fruit le plus consommé au monde.
+Question : De quel pays vient le sushi ? Réponse : Le sushi vient du Japon.
+Question : Quel ingrédient fait monter un gâteau ? Réponse : La levure ou la levure chimique fait monter un gâteau.
+Question : De quel pays vient la pizza ? Réponse : La pizza vient d'Italie.
+Question : Quelle est la boisson la plus consommée au monde après l'eau ? Réponse : Le thé est la boisson la plus consommée après l'eau.
+Question : Quel fromage fond sur la raclette ? Réponse : Le fromage à raclette fond sur la raclette.
+Question : De quel pays vient le ceviche ? Réponse : Le ceviche vient du Pérou.
+Question : Quel est l'ingrédient principal du guacamole ? Réponse : L'avocat est l'ingrédient principal du guacamole.
+Question : De quel pays vient le couscous ? Réponse : Le couscous est originaire d'Afrique du Nord.
+Question : Quelle épice donne sa couleur au curry ? Réponse : Le curcuma donne sa couleur jaune au curry.
+Question : Quel fruit contient le plus de potassium ? Réponse : La banane est riche en potassium.
+Question : De quel pays vient le croissant ? Réponse : Le croissant est d'origine autrichienne, popularisé en France.
+Question : Quelle boisson contient de la caféine ? Réponse : Le café et le thé contiennent de la caféine.
+Question : Quel est le fromage le plus consommé en France ? Réponse : Le camembert est l'un des fromages les plus consommés en France.
+Question : De quel pays vient le kimchi ? Réponse : Le kimchi vient de Corée.
+Question : Quel est l'ingrédient principal de la soupe miso ? Réponse : Le miso, pâte de soja fermentée, est l'ingrédient principal.
+Question : Quel fruit a le nom d'un oiseau ? Réponse : Le kiwi est aussi le nom d'un oiseau de Nouvelle-Zélande.
+Question : De quel pays vient le tiramisu ? Réponse : Le tiramisu vient d'Italie.
+Question : Quelle légumineuse sert à faire le houmous ? Réponse : Les pois chiches servent à faire le houmous.
+Question : Quel est l'agrume principal de la citronnade ? Réponse : Le citron est l'agrume principal de la citronnade.
+Question : Combien de joueurs une équipe de football a-t-elle sur le terrain ? Réponse : Une équipe de football compte 11 joueurs sur le terrain.
+Question : Où ont eu lieu les premiers Jeux olympiques modernes ? Réponse : Les premiers Jeux olympiques modernes ont eu lieu à Athènes en 1896.
+Question : Quel pays a gagné le plus de Coupes du monde de football ? Réponse : Le Brésil a gagné le plus de Coupes du monde, avec 5 titres.
+Question : Combien de points vaut un essai au rugby ? Réponse : Un essai au rugby vaut 5 points.
+Question : Quel sport pratique Roger Federer ? Réponse : Roger Federer pratique le tennis.
+Question : Quelle est la surface d'un terrain de basket ? Réponse : Un terrain de basket mesure 28 mètres de long sur 15 mètres de large.
+Question : Combien de sets faut-il gagner au tennis pour remporter un match ? Réponse : Il faut généralement gagner 2 sets en 3, ou 3 sets en 5.
+Question : Quel sport se joue à Wimbledon ? Réponse : Le tennis se joue à Wimbledon.
+Question : Qui est surnommé le roi du football ? Réponse : Pelé est surnommé le roi du football.
+Question : Combien de joueurs une équipe de rugby à XV a-t-elle ? Réponse : Une équipe de rugby à XV compte 15 joueurs.
+Question : Quel sport se pratique avec un volant ? Réponse : Le badminton se pratique avec un volant.
+Question : Quel pays a remporté la Coupe du monde 2018 ? Réponse : La France a remporté la Coupe du monde 2018.
+Question : Quelle est la durée d'un match de football ? Réponse : Un match de football dure 90 minutes, plus le temps additionnel.
+Question : Quel sport utilise un puck ? Réponse : Le hockey sur glace utilise un puck.
+Question : Qui détient le record du 100 mètres ? Réponse : Usain Bolt détient le record du 100 mètres.
+Question : Combien de trous un parcours de golf standard compte-t-il ? Réponse : Un parcours standard compte 18 trous.
+Question : Dans quel sport utilise-t-on le terme slam dunk ? Réponse : Le terme slam dunk est utilisé au basket-ball.
+Question : Quel pays organise le Tour de France ? Réponse : La France organise le Tour de France.
+Question : Quelle est la distance d'un marathon ? Réponse : Un marathon fait 42,195 kilomètres.
+Question : Combien de médailles d'or Michael Phelps a-t-il gagnées ? Réponse : Michael Phelps a gagné 23 médailles d'or olympiques.
+Question : Quel est l'animal emblème de la France ? Réponse : Le coq est l'emblème de la France.
+Question : Combien de jours y a-t-il dans une année bissextile ? Réponse : Une année bissextile compte 366 jours.
+Question : Quelle est la monnaie du Japon ? Réponse : La monnaie du Japon est le yen.
+Question : Combien de couleurs y a-t-il dans un arc-en-ciel ? Réponse : Un arc-en-ciel compte sept couleurs : rouge, orange, jaune, vert, bleu, indigo, violet.
+Question : Quelle est la devise de la République française ? Réponse : La devise est Liberté, Égalité, Fraternité.
+Question : Quel est le jour de Noël ? Réponse : Noël est célébré le 25 décembre.
+Question : Combien de semaines y a-t-il dans une année ? Réponse : Une année compte 52 semaines.
+Question : Quelle est la monnaie officielle de l'Union européenne ? Réponse : L'euro est la monnaie officielle de la zone euro.
+Question : Quelle est la capitale de la Belgique ? Réponse : La capitale de la Belgique est Bruxelles.
+Question : Quel est le plus long fleuve d'Amérique du Sud ? Réponse : L'Amazone est le plus long fleuve d'Amérique du Sud.
+Question : Quelle est la capitale de la Suisse ? Réponse : La capitale de la Suisse est Berne.
+Question : Dans quel pays se trouve le Mont Fuji ? Réponse : Le Mont Fuji se trouve au Japon.
+Question : Quelle est la capitale de la Pologne ? Réponse : La capitale de la Pologne est Varsovie.
+Question : Quel détroit relie la mer Méditerranée à l'océan Atlantique ? Réponse : Le détroit de Gibraltar.
+Question : Quelle est la capitale du Mexique ? Réponse : La capitale du Mexique est Mexico.
+Question : Dans quel pays se trouve la Laponie ? Réponse : La Laponie s'étend en Norvège, Suède, Finlande et Russie.
+Question : Quelle est la capitale de la Suède ? Réponse : La capitale de la Suède est Stockholm.
+Question : Quel est le plus grand golfe du monde ? Réponse : Le golfe du Mexique est l'un des plus grands du monde.
+Question : En quelle année a eu lieu la guerre de Sécession aux États-Unis ? Réponse : La guerre de Sécession a débuté en 1861.
+Question : Qui était le pharaon le plus célèbre d'Égypte ? Réponse : Ramsès II est l'un des pharaons les plus célèbres.
+Question : En quelle année l'ONU a-t-elle été fondée ? Réponse : L'ONU a été fondée en 1945.
+Question : Qui était Henri IV ? Réponse : Henri IV était roi de France et a promulgué l'édit de Nantes.
+Question : En quelle année a eu lieu la révolution cubaine ? Réponse : La révolution cubaine a triomphé en 1959.
+Question : Qui était Confucius ? Réponse : Confucius était un philosophe chinois.
+Question : En quelle année a eu lieu le massacre de la Saint-Barthélemy ? Réponse : Le massacre de la Saint-Barthélemy a eu lieu en 1572.
+Question : Qui a découvert l'électricité ? Réponse : Benjamin Franklin a mené des expériences célèbres sur l'électricité.
+Question : En quelle année a eu lieu la guerre du Vietnam ? Réponse : La guerre du Vietnam a duré de 1955 à 1975.
+Question : Qui était Marie Curie ? Réponse : Marie Curie était une physicienne et chimiste, deux fois prix Nobel.
+Question : Qu'est-ce que l'énergie solaire ? Réponse : L'énergie solaire provient du rayonnement du Soleil.
+Question : Combien de temps la lumière met-elle pour aller du Soleil à la Terre ? Réponse : Environ 8 minutes et 20 secondes.
+Question : Quel est le métal le plus conducteur d'électricité ? Réponse : L'argent est le métal le plus conducteur d'électricité.
+Question : Qu'est-ce que l'effet de serre ? Réponse : L'effet de serre est le réchauffement de l'atmosphère dû aux gaz retenant la chaleur.
+Question : Quelle est la planète la plus éloignée du Soleil ? Réponse : Neptune est la planète la plus éloignée du Soleil.
+Question : Qu'est-ce qu'un trou noir ? Réponse : Un trou noir est une région de l'espace où la gravité est si forte que rien ne peut s'échapper.
+Question : Quel est le plus gros requin du monde ? Réponse : Le requin-baleine est le plus gros requin du monde.
+Question : Qu'est-ce que la tectonique des plaques ? Réponse : C'est la théorie expliquant le mouvement des plaques de la croûte terrestre.
+Question : Quel est le pH de l'eau pure ? Réponse : L'eau pure a un pH de 7.
+Question : Qu'est-ce qu'un quark ? Réponse : Un quark est une particule élémentaire constituant de la matière.
+Question : Qui a peint Les Tournesols ? Réponse : Vincent van Gogh a peint Les Tournesols.
+Question : Qui a écrit Le Rouge et le Noir ? Réponse : Le Rouge et le Noir a été écrit par Stendhal.
+Question : Quel est l'instrument de musique de Mozart ? Réponse : Mozart jouait du clavecin et du piano-forte.
+Question : Qui a chanté Like a Rolling Stone ? Réponse : Bob Dylan a chanté Like a Rolling Stone.
+Question : Qui a réalisé Jurassic Park ? Réponse : Steven Spielberg a réalisé Jurassic Park.
+Question : Quel est le nom du héros de L'Odyssée ? Réponse : Ulysse est le héros de L'Odyssée.
+Question : Qui a peint La Nuit étoilée ? Réponse : Vincent van Gogh a peint La Nuit étoilée.
+Question : Quel est le genre du Seigneur des Anneaux ? Réponse : Le Seigneur des Anneaux est de la fantasy épique.
+Question : Qui a écrit Les Trois Mousquetaires ? Réponse : Les Trois Mousquetaires a été écrit par Alexandre Dumas.
+Question : Qui a composé La Marche turque ? Réponse : Wolfgang Amadeus Mozart a composé La Marche turque.
+Question : Comment dit-on chat en anglais ? Réponse : Chat se dit cat en anglais.
+Question : Comment dit-on chien en espagnol ? Réponse : Chien se dit perro en espagnol.
+Question : Comment dit-on nuit en italien ? Réponse : Nuit se dit notte en italien.
+Question : Comment dit-on amour en arabe ? Réponse : Amour se dit hub en arabe.
+Question : Comment dit-on paix en japonais ? Réponse : Paix se dit heiwa en japonais.
+Question : Comment dit-on bonjour en portugais ? Réponse : Bonjour se dit olá en portugais.
+Question : Comment dit-on arbre en allemand ? Réponse : Arbre se dit Baum en allemand.
+Question : Comment dit-on merci en russe ? Réponse : Merci se dit spasibo en russe.
+Question : Comment dit-on eau en japonais ? Réponse : Eau se dit mizu en japonais.
+Question : Comment dit-on soleil en espagnol ? Réponse : Soleil se dit sol en espagnol.
+Question : Combien de bosses un dromadaire a-t-il ? Réponse : Un dromadaire a une bosse.
+Question : Quel animal marin change de couleur ? Réponse : La pieuvre et la seiche peuvent changer de couleur.
+Question : Comment s'appelle le plus petit singe du monde ? Réponse : Le ouistiti pygmée est le plus petit singe du monde.
+Question : Quel animal produit le miel ? Réponse : L'abeille produit le miel.
+Question : Combien de bras une étoile de mer a-t-elle généralement ? Réponse : Une étoile de mer a généralement cinq bras.
+Question : Quel est l'oiseau national des États-Unis ? Réponse : Le pygargue à tête blanche est l'oiseau national des États-Unis.
+Question : Quel animal est le roi des animaux ? Réponse : Le lion est surnommé le roi des animaux.
+Question : Quelle est la durée de vie d'un papillon ? Réponse : Certains papillons vivent quelques jours, d'autres plusieurs mois.
+Question : Quel est le plus petit mammifère du monde ? Réponse : La musaraigne étrusque est le plus petit mammifère.
+Question : Comment s'appelle un groupe de loups ? Réponse : Un groupe de loups s'appelle une meute.
+Question : Qui a inventé l'ampoule électrique ? Réponse : Thomas Edison a perfectionné l'ampoule électrique.
+Question : Que signifie USB ? Réponse : USB signifie Universal Serial Bus.
+Question : Qu'est-ce qu'un cookie informatique ? Réponse : Un cookie est un petit fichier stocké par un site web sur l'ordinateur de l'utilisateur.
+Question : Qui a créé le langage Python ? Réponse : Guido van Rossum a créé Python.
+Question : En quelle année Google a-t-il été fondé ? Réponse : Google a été fondé en 1998.
+Question : Qu'est-ce que le Bluetooth ? Réponse : Le Bluetooth est une technologie de communication sans fil à courte distance.
+Question : Qui a inventé le vélo ? Réponse : Le baron Karl von Drais a inventé la draisienne, ancêtre du vélo.
+Question : Que signifie GPS ? Réponse : GPS signifie Global Positioning System.
+Question : Qu'est-ce qu'un drone ? Réponse : Un drone est un aéronef sans pilote.
+Question : Qui a fondé Amazon ? Réponse : Jeff Bezos a fondé Amazon.
+Question : De quel pays vient le taco ? Réponse : Le taco vient du Mexique.
+Question : Quel est le fromage principal de la pizza Margherita ? Réponse : La mozzarella est le fromage principal.
+Question : De quel pays vient la paella ? Réponse : La paella vient d'Espagne.
+Question : Quelle est la boisson traditionnelle du Royaume-Uni à 17h ? Réponse : Le thé est la boisson du tea time.
+Question : De quel pays vient le hamburger ? Réponse : Le hamburger moderne vient des États-Unis.
+Question : Quelle est l'épice principale du pain d'épices ? Réponse : Le gingembre est l'épice principale du pain d'épices.
+Question : De quel pays vient le saumon fumé ? Réponse : Le saumon fumé est traditionnel dans les pays scandinaves.
+Question : Quel est le fromage suisse à trous ? Réponse : L'emmental est le fromage suisse à trous.
+Question : De quel pays vient la quiche lorraine ? Réponse : La quiche lorraine vient de France.
+Question : Quelle boisson est faite à partir de pommes fermentées ? Réponse : Le cidre est fait à partir de pommes fermentées.
+Question : Où se déroule le marathon de New York ? Réponse : Le marathon se déroule dans les rues de New York.
+Question : Quel pays est célèbre pour le sumo ? Réponse : Le Japon est célèbre pour le sumo.
+Question : Combien de joueurs une équipe de volley-ball a-t-elle ? Réponse : Une équipe compte 6 joueurs sur le terrain.
+Question : Quel sport se joue à Roland-Garros ? Réponse : Le tennis se joue à Roland-Garros.
+Question : Qui est le joueur de basket-ball surnommé King James ? Réponse : LeBron James est surnommé King James.
+Question : Quel pays a inventé le cricket ? Réponse : L'Angleterre a inventé le cricket.
+Question : Combien de périodes y a-t-il au hockey sur glace ? Réponse : Un match compte trois périodes.
+Question : Quel sport se pratique avec une épée, un fleuret ou un sabre ? Réponse : L'escrime.
+Question : Où ont eu lieu les JO 2024 ? Réponse : Les JO 2024 ont eu lieu à Paris.
+Question : Combien de joueurs une équipe de water-polo a-t-elle ? Réponse : Sept joueurs par équipe sont dans l'eau.
+Question : Quel est le jour de la Saint-Valentin ? Réponse : Le 14 février.
+Question : Quelle est la monnaie du Royaume-Uni ? Réponse : La livre sterling.
+Question : Combien de minutes y a-t-il dans une journée ? Réponse : 1 440 minutes.
+Question : Quel est le signe astrologique du 15 août ? Réponse : Le Lion.
+Question : Quelle fête a lieu le 31 octobre ? Réponse : Halloween.
+Question : Quelle est la couleur du deuil en Chine ? Réponse : Le blanc.
+Question : Combien de temps dure une année-lumière en distance ? Réponse : Environ 9 461 milliards de kilomètres.
+Question : Quel est le nom du calendrier utilisé en France ? Réponse : Le calendrier grégorien.
+Question : Quelle est la plus haute chute d'eau du monde ? Réponse : La chute d'Angel, au Venezuela.
+Question : Quel est le symbole chimique du plomb ? Réponse : Pb.

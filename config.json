@@ -1,0 +1,9 @@
+{
+  "model_type": "gopu-brain",
+  "vocab_size": 1227,
+  "embed_dim": 128,
+  "hidden_dim": 256,
+  "num_layers": 2,
+  "architecture": "GopuBrainAdvanced"
+}
+
