@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+gopu_poids.safetensors
+.DS_Store
