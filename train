@@ -1,0 +1,3 @@
+from gopu_transformers import GopuBrainAdvanced, Models
+model = GopuBrainAdvanced(".", TypeModel=Models("gopu"))
+model.train(corpus_path="corpus.txt", model_retrain=True, epochs=60)
