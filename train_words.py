@@ -75,7 +75,7 @@ print(f"📚 Total des mots à apprendre : {len(data_indices)}")
 print("=" * 50)
 
 # 4. Boucle d'entraînement
-epochs = 200
+epochs = 30
 for epoch in range(epochs):
     model.train()
     total_loss = 0
