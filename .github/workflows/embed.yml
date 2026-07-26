@@ -1,30 +1,43 @@
-name: Train and Upload Locgi Model
+name: Train & Push Gopu Model
 
 on:
-  workflow_dispatch:  # Déclenchement manuel depuis l'onglet Actions
   schedule:
-    - cron: '* * * * *'  # Optionnel : tous les dimanches à 3h
+    - cron: '*/2 * * * *'  # Toutes les 2 minutes
+  workflow_dispatch:       # Déclenchement manuel
 
 jobs:
   train:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      # 1. Cloner le repo
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      # 2. Installer Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
+      # 3. Installer les dépendances
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install torch safetensors huggingface_hub pandas pyarrow
+          pip install --upgrade pip
+          pip install torch safetensors huggingface_hub pandas pyarrow wget
 
-      - name: Run training script
+      # 4. Exécuter le script (qui utilise le token depuis les secrets)
+      - name: Run embeling_soul.py
         env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_TOKEN: ${{ secrets.HUGGINGFACE_TOKEN }}
         run: |
           python embeling_soul.py
+
+      # 5. Commit et push les fichiers modifiés (corpus.txt, vocab.json, config.json, gopu_poids.safetensors)
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add corpus.txt vocab.json config.json gopu_poids.safetensors
+          git diff --staged --quiet || git commit -m "Auto-update model $(date -u '+%Y-%m-%d %H:%M:%S')"
+          git push
