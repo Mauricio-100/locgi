@@ -24,7 +24,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install torch safetensors huggingface_hub pandas pyarrow wget
+          pip install torch safetensors request huggingface_hub pandas pyarrow wget
 
       # 4. Exécuter le script (qui utilise le token depuis les secrets)
       - name: Run embeling_soul.py
