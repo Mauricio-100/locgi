@@ -8,15 +8,6 @@ Version adaptée pour GitHub Actions (pas de !shell, token via env)
 import subprocess
 import sys
 
-def install(package):
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "-q", package])
-
-install("torch")
-install("safetensors")
-install("huggingface_hub")
-install("pandas")
-install("pyarrow")
-install("requests")
 
 # %% [2. Imports]
 import os
@@ -222,7 +213,7 @@ print(f"📊 {n_params:,} paramètres (~{n_params*4/1024/1024:.1f} Mo en float32
 optimizer = torch.optim.AdamW(model.parameters(), lr=2e-4)
 criterion = nn.CrossEntropyLoss(ignore_index=word_to_int["<PAD>"])
 
-EPOCHS = 1000
+EPOCHS = 100
 best_loss = float("inf")
 
 for epoch in range(EPOCHS):
