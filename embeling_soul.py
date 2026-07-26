@@ -14,10 +14,6 @@ Pipeline :
   7. Upload tout sur huggingface.co/Mauricio-100/locgi
 """
 
-# %% [1. Installation]
-!pip install -q torch safetensors huggingface_hub pandas pyarrow
-
-# %% [2. Imports]
 import os
 import re
 import json
