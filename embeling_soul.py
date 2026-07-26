@@ -1,23 +1,29 @@
 """
 colab_train_locgi_v2.py
 
-A COPIER-COLLER DANS GOOGLE COLAB (cellule par cellule, séparées par # %%)
-Active un GPU avant de lancer : Exécution > Modifier le type d'exécution > GPU
-
-Pipeline :
-  1. Installe les dépendances
-  2. Télécharge ton corpus.txt existant depuis huggingface.co/Mauricio-100/locgi
-  3. Télécharge frenchSTS et en extrait des phrases brutes
-  4. Fusionne le tout, reconstruit vocab.json (word-level)
-  5. Entraîne GopuTransformerLite (attention + MoE léger) sur GPU
-  6. Sauvegarde gopu_poids.safetensors + vocab.json + config.json
-  7. Upload tout sur huggingface.co/Mauricio-100/locgi
+Version adaptée pour GitHub Actions (pas de !shell, token via env)
 """
 
+# %% [1. Installation]
+import subprocess
+import sys
+
+def install(package):
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "-q", package])
+
+install("torch")
+install("safetensors")
+install("huggingface_hub")
+install("pandas")
+install("pyarrow")
+install("requests")
+
+# %% [2. Imports]
 import os
 import re
 import json
 import random
+import requests
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -28,9 +34,13 @@ from huggingface_hub import hf_hub_download, upload_file, login
 REPO_ID = "Mauricio-100/locgi"
 
 # %% [3. Authentification HuggingFace]
-from getpass import getpass
-HF_TOKEN = getpass("Colle ton token HuggingFace (write) : ")
-login(HF_TOKEN)
+HF_TOKEN = os.environ.get("HF_TOKEN")
+if HF_TOKEN:
+    login(HF_TOKEN)
+    print("✅ Authentifié via HF_TOKEN")
+else:
+    print("❌ HF_TOKEN non trouvé dans les variables d'environnement")
+    exit(1)
 
 # %% [4. Télécharger le corpus existant depuis ton repo HF]
 print("📥 Téléchargement de corpus.txt depuis le Hub...")
@@ -42,11 +52,13 @@ print(f"✅ Corpus existant : {len(corpus_existant)} caractères")
 # %% [5. Télécharger frenchSTS et extraire des phrases]
 print("📥 Téléchargement de frenchSTS...")
 STS_URL = "https://huggingface.co/datasets/CATIE-AQ/frenchSTS/resolve/main/data/test-00000-of-00001.parquet"
-!wget -q {STS_URL} -O frenchSTS_test.parquet
+response = requests.get(STS_URL)
+with open("frenchSTS_test.parquet", "wb") as f:
+    f.write(response.content)
+print("✅ Téléchargé")
 
 df = pd.read_parquet("frenchSTS_test.parquet")
 print("Colonnes :", list(df.columns))
-print(df.head(3))
 
 def clean_sentence(s):
     s = str(s).strip()
@@ -210,7 +222,7 @@ print(f"📊 {n_params:,} paramètres (~{n_params*4/1024/1024:.1f} Mo en float32
 optimizer = torch.optim.AdamW(model.parameters(), lr=2e-4)
 criterion = nn.CrossEntropyLoss(ignore_index=word_to_int["<PAD>"])
 
-EPOCHS = 30
+EPOCHS = 1000
 best_loss = float("inf")
 
 for epoch in range(EPOCHS):
@@ -288,7 +300,7 @@ def generer(prompt, max_len=30, temperature=0.8):
         phrase += tok if (tok in {".", ",", "!", "?"} or not phrase) else " " + tok
     return phrase
 
+print("\n🧪 Tests de génération :")
 for q in ["Quelle est la capitale de la France ?", "Qui a peint la Joconde ?"]:
     print(f"[Toi] > {q}")
     print(f"[Locgi] > {generer(q)}\n")
-
